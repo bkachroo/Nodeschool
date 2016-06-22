@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bkachroo/nodeschool/issues"
   },
-  "homepage": "https://github.com/bkachroo/nodeschool#readme"
+  "homepage": "https://github.com/bkachroo/nodeschool#readme",
+  "dependencies": {
+    "split": "^1.0.0",
+    "through2": "^2.0.1"
+  }
 }

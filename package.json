@@ -1,0 +1,19 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "nodeschool tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkachroo/nodeschool.git"
+  },
+  "author": "Bhareth Kachroo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkachroo/nodeschool/issues"
+  },
+  "homepage": "https://github.com/bkachroo/nodeschool#readme"
+}
